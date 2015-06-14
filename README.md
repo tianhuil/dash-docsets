@@ -15,7 +15,7 @@ All docsets are set to use the Python language family and are added under the `p
 
 Add any or all of the following feeds to Dash:
 
-* IPython: [https://raw.github.com/sjpfenninger/dash-docsets/master/feeds/ipython.xml](https://raw.github.com/sjpfenninger/dash-docsets/master/feeds/ipython.xml) [dash-feed://https%3A%2F%2Fraw.github.com%2Fsjpfenninger%2Fdash-docsets%2Fmaster%2Ffeeds%2Fipython.xml](Subscribe)
+* IPython: [https://raw.github.com/sjpfenninger/dash-docsets/master/feeds/ipython.xml](https://raw.github.com/sjpfenninger/dash-docsets/master/feeds/ipython.xml) <a href="dash-feed://https%3A%2F%2Fraw.github.com%2Fsjpfenninger%2Fdash-docsets%2Fmaster%2Ffeeds%2Fipython.xml">Subscribe</a>
 * pandas: [https://raw.github.com/sjpfenninger/dash-docsets/master/feeds/pandas.xml](https://raw.github.com/sjpfenninger/dash-docsets/master/feeds/pandas.xml)
 * statsmodels: [https://raw.github.com/sjpfenninger/dash-docsets/master/feeds/statsmodels.xml](https://raw.github.com/sjpfenninger/dash-docsets/master/feeds/statsmodels.xml)
 * seaborn: [https://raw.github.com/sjpfenninger/dash-docsets/master/feeds/seaborn.xml](https://raw.github.com/sjpfenninger/dash-docsets/master/feeds/seaborn.xml)
